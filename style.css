@@ -26,3 +26,7 @@ p.capitalized
 {
   text-transform: capitalize;
 }
+.text-big
+{
+  text-align-last: right;
+}
