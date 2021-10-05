@@ -22,3 +22,7 @@ font-size:35px;
 color: aqua;
 background-color: blue;
 }
+p.capitalized
+{
+  text-transform: capitalize;
+}
